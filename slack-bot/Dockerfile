@@ -1,6 +1,6 @@
 #FROM python:3.8-alpine
 FROM python
-MAINTAINER Rotem Jackoby
+MAINTAINER KhulnaSoft Lab
 LABEL Version="1.0"
 
 RUN pip install slack_sdk
